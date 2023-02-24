@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace sm.entrenamiento.ejemplo.Services
+namespace sm.entrenamiento.ejemplo
 {
     public class FactorialServicio
     {
